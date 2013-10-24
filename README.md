@@ -1,3 +1,17 @@
+
+
+android_kernel_smartfren_MSM8625QSKUD
+=====================================
+
+Linux Kernel 3.4.0 for Smartfren Andromax U Limited Edition - MSM8625Q  (untested)
+
+This kernel ported from https://github.com/ardX/android_kernel_k-touch_msm8x25q	
+	
+
+
+=====================================
+	
+	
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
@@ -376,10 +390,3 @@ IF SOMETHING GOES WRONG:
 
 
 
-
-android_kernel_smartfren_MSM8625QSKUD
-=====================================
-
-Linux Kernel 3.4.0 for Smartfren Andromax U Limited Edition - MSM8625Q  (untested)
-
-This kernel ported from https://github.com/ardX/android_kernel_k-touch_msm8x25q
